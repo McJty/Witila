@@ -1,0 +1,16 @@
+[
+{
+  "modid": "witila",
+  "name": "Witila",
+  "description": "What Is This I'm Looking At?",
+  "version": "${version}",
+  "mcversion": "${mcversion}",
+  "url": "",
+  "updateUrl": "",
+  "authorList": ["McJty"],
+  "credits": "",
+  "logoFile": "",
+  "screenshots": [],
+  "dependencies": []
+}
+]
